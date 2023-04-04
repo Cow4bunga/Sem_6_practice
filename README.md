@@ -6,3 +6,4 @@ Basic tasks for 6th semester special course
 4. Classification
 5. Clustering
 6. PCA algorithm
+7. Creating a map of Covid cases in Italy
